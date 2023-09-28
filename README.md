@@ -1,6 +1,6 @@
 # Hobbs_et_al
-Data associated with Hobbs et al. 2022, Ecology and Evolution
-Willow leaf chemistry paper
+Data associated with "The influence of weevil herbivory on leaf litter chemistry in dioecious willows" from Hobbs et al. (2022), published in Ecology and Evolution, 12, e9626. 
 
-If you would like to use any of these data for subsequent analyses or meta-analyses, please contact Dr. Carri LeRoy at LeRoyC@evergreen.edu. Failure to do so is a scientific ethics violation.
+
+These data are available for subsequent analyses or meta-analyses. It would be great if you could contact Dr. Carri LeRoy at LeRoyC@evergreen.edu to discuss your research - Thanks! 
 
